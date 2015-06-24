@@ -27,6 +27,8 @@ author :
 #
 production_url : http://drizzt.github.io
 
+paginate: 4
+
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
