@@ -3,7 +3,7 @@ layout: post
 title: "Puma on OpenShift"
 description: ""
 category:
-tags: [openshift heroku]
+tags: [openshift, heroku]
 ---
 {% include JB/setup %}
 
