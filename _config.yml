@@ -8,8 +8,8 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Just another useless website
-tagline: Site Tagline
+title : Just another useless blog
+#tagline: Site Tagline
 author :
   name : Timothy Redaelli
   email : tredaelli@archlinux.info
@@ -82,9 +82,9 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : false #disqus
+    provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : drizzt
     livefyre :
       site_id : 123
     intensedebate :
