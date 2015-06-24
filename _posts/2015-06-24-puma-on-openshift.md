@@ -27,7 +27,7 @@ Since I develop my website using [Ruby](https://www.ruby-lang.org) I tried to us
 
 They suggest to use a _Do It Yourself_ cartridge and to configure all by yourself. I avoided this suggestion, because the _Ruby 2.0 Cartridge_ is automatically updated for security problems and so I tried to workaround the problem.
 
-My solution is an hack that prevents Apache to be started and it starts the [http://puma.io/](Puma) webserver instead (obviously this hack can be changed to start any other webserver).
+My solution is an hack that prevents Apache to be started and it starts the [Puma](http://puma.io/) webserver instead (obviously this hack can be changed to start any other webserver).
 
 If you want to study my hack and/or to use it you can find it on [my Github repository](https://github.com/drizzt/puma-openshift).
 
