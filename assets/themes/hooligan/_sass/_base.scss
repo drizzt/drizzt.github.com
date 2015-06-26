@@ -1,5 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Advent+Pro);
 @import url(http://fonts.googleapis.com/css?family=Oxygen);
+@import url(http://fonts.googleapis.com/css?family=Source+Code+Pro);
 
 /* Theme Vars */
 $link-color: #4cb4e8;
@@ -83,6 +84,7 @@ hr {
 	div.navbar-inner {
 		@include border-radius(0);
 		a.brand {
+			font-family: 'Source Code Pro', ;
 			padding:10px 20px;
 		}
 		ul.nav:first-child {
