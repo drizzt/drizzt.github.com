@@ -3,7 +3,7 @@ layout: post
 title: "Using Wireshark remotely"
 description: ""
 category: 
-tags: [tcpdup, wireshark]
+tags: [tcpdump, wireshark]
 ---
 {% include JB/setup %}
 
