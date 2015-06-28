@@ -2,8 +2,8 @@
 layout: post
 title: "vps2arch: The fastest way to convert a VPS to Arch Linux"
 description: ""
-category: projects
-tags: []
+category: archlinux
+tags: [projects, vps]
 ---
 {% include JB/setup %}
 
