@@ -374,7 +374,7 @@ div.posts {
 }
 /* line 23, ../_sass/_post.scss */
 div.posts article {
-  padding: 0px 7px;
+  padding: 0px 10px;
 }
 /* line 27, ../_sass/_post.scss */
 div.posts article div.date {
@@ -397,8 +397,8 @@ div.posts article div.date time {
 div.posts article h2.post-title {
   background-color: #454545;
   border: 1px solid #757575;
-  margin: 15px -7px;
-  padding: 5px 7px;
+  margin: 15px -10px;
+  padding: 5px 10px;
 }
 
 /* This is for your Custom Content. */
