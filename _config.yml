@@ -30,6 +30,7 @@ author :
 production_url : https://yaps.it
 
 paginate: 4
+excerpt_separator: "<!-- more -->"
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
