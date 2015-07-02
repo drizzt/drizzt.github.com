@@ -13,7 +13,7 @@ html, body {
 
 /* line 19, ../_sass/_base.scss */
 body {
-  color: #bbb;
+  color: #f1f1f1;
   text-shadow: 1px 1px 1px #000;
   height: 100%;
   font-family: 'Oxygen', sans-serif;
@@ -370,12 +370,20 @@ article.post header .category {
   margin-left: 3px;
 }
 
-/* line 25, ../_sass/_post.scss */
+/* line 21, ../_sass/_post.scss */
+div.posts {
+  background-color: #373737;
+}
+/* line 23, ../_sass/_post.scss */
+div.posts article {
+  padding: 0px 7px;
+}
+/* line 27, ../_sass/_post.scss */
 div.posts article div.date {
   font-size: 10px;
   padding: 10px 0;
 }
-/* line 28, ../_sass/_post.scss */
+/* line 30, ../_sass/_post.scss */
 div.posts article div.date time {
   -moz-box-shadow: rgba(255, 255, 255, 0.1) 0 1px 0, rgba(0, 0, 0, 0.8) 0 1px 7px 0px inset;
   -webkit-box-shadow: rgba(255, 255, 255, 0.1) 0 1px 0, rgba(0, 0, 0, 0.8) 0 1px 7px 0px inset;
@@ -386,6 +394,13 @@ div.posts article div.date time {
   -webkit-border-radius: 5px;
   border-radius: 5px;
   padding: 5px 10px;
+}
+/* line 41, ../_sass/_post.scss */
+div.posts article h2.post-title {
+  background-color: #454545;
+  border: 1px solid #757575;
+  margin: 15px -7px;
+  padding: 5px 7px;
 }
 
 /* This is for your Custom Content. */

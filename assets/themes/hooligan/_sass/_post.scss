@@ -19,9 +19,11 @@ article.post {
 }
 
 div.posts {
+	background-color: #373737;
 	article {
 		// padding-bottom:10px;
 		// margin-bottom:10px;
+		padding: 0px 7px;
 		div.date {
 			font-size:10px;
 			padding:10px 0;
@@ -35,6 +37,12 @@ div.posts {
 					@include border-radius;
 					padding:5px 10px;
 				}
+		}
+		h2.post-title {
+			background-color: #454545;
+			border:  1px solid #757575;
+			margin:  15px -7px;
+			padding: 5px 7px;
 		}
 	}
 }
