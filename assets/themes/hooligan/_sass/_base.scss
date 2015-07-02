@@ -1,6 +1,5 @@
 @import url(//fonts.googleapis.com/css?family=Advent+Pro);
 @import url(//fonts.googleapis.com/css?family=Oxygen);
-@import url(//fonts.googleapis.com/css?family=Aladin);
 
 /* Theme Vars */
 $link-color: #4cb4e8;
@@ -87,7 +86,6 @@ hr {
 			display: inline-block;
 			@include box-sizing(content-box);
 			border: none;
-			font-family: "Aladin", Helvetica, sans-serif;
 			padding:10px 20px;
 			color: #999;
 			text-align: center;

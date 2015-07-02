@@ -1,17 +1,16 @@
 /* Partials */
 @import url(//fonts.googleapis.com/css?family=Advent+Pro);
 @import url(//fonts.googleapis.com/css?family=Oxygen);
-@import url(//fonts.googleapis.com/css?family=Aladin);
 /* Theme Vars */
 /* Compass Vars */
 /* Override some defaults */
-/* line 14, ../_sass/_base.scss */
+/* line 13, ../_sass/_base.scss */
 html, body {
   background-color: #2a2a2a;
   background: url(../images/bgs/body.png) repeat;
 }
 
-/* line 19, ../_sass/_base.scss */
+/* line 18, ../_sass/_base.scss */
 body {
   color: #f1f1f1;
   text-shadow: 1px 1px 1px #000;
@@ -20,7 +19,7 @@ body {
   font-size: 14px;
 }
 
-/* line 27, ../_sass/_base.scss */
+/* line 26, ../_sass/_base.scss */
 h1, h2, h3, h4, h5, h6 {
   margin: 0;
   font-weight: normal;
@@ -30,7 +29,7 @@ h1, h2, h3, h4, h5, h6 {
   /*font-family: 'Pontano Sans', sans-serif;*/
 }
 
-/* line 36, ../_sass/_base.scss */
+/* line 35, ../_sass/_base.scss */
 a {
   color: #4cb4e8;
   -moz-transition: all 0.3s;
@@ -38,39 +37,39 @@ a {
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
-/* line 38, ../_sass/_base.scss */
+/* line 37, ../_sass/_base.scss */
 a:hover {
   color: #d4edf9;
   text-decoration: none;
 }
 
-/* line 45, ../_sass/_base.scss */
+/* line 44, ../_sass/_base.scss */
 h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
   font-weight: normal;
   color: #999999;
 }
 
-/* line 50, ../_sass/_base.scss */
+/* line 49, ../_sass/_base.scss */
 h1, h2 {
   margin: 0 0 15px;
 }
 
-/* line 54, ../_sass/_base.scss */
+/* line 53, ../_sass/_base.scss */
 h1 {
   font-size: 40px;
 }
 
-/* line 58, ../_sass/_base.scss */
+/* line 57, ../_sass/_base.scss */
 h2 {
   font-size: 30px;
 }
 
-/* line 62, ../_sass/_base.scss */
+/* line 61, ../_sass/_base.scss */
 pre, code {
   color: #ccc;
 }
 
-/* line 66, ../_sass/_base.scss */
+/* line 65, ../_sass/_base.scss */
 pre > code {
   /* Reset box-shadow for pygments */
   background: none;
@@ -80,7 +79,7 @@ pre > code {
   -o-box-shadow: none;
 }
 
-/* line 75, ../_sass/_base.scss */
+/* line 74, ../_sass/_base.scss */
 hr {
   border: none;
   background: rgba(0, 0, 0, 0.7);
@@ -88,24 +87,23 @@ hr {
 }
 
 /* Layout */
-/* line 82, ../_sass/_base.scss */
+/* line 81, ../_sass/_base.scss */
 .navbar {
   margin-bottom: 0;
 }
-/* line 84, ../_sass/_base.scss */
+/* line 83, ../_sass/_base.scss */
 .navbar div.navbar-inner {
   -moz-border-radius: 0;
   -webkit-border-radius: 0;
   border-radius: 0;
 }
-/* line 86, ../_sass/_base.scss */
+/* line 85, ../_sass/_base.scss */
 .navbar div.navbar-inner a.brand {
   display: inline-block;
   -moz-box-sizing: content-box;
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
   border: none;
-  font-family: "Aladin", Helvetica, sans-serif;
   padding: 10px 20px;
   color: #999;
   text-align: center;
@@ -115,51 +113,51 @@ hr {
   white-space: pre;
   text-shadow: 1px 1px 0 rgba(140, 140, 140, 0.6), -1px -1px 1px rgba(0, 0, 0, 0.67);
 }
-/* line 102, ../_sass/_base.scss */
+/* line 100, ../_sass/_base.scss */
 .navbar div.navbar-inner ul.nav:first-child li a {
   padding: 12px 10px 8px;
 }
 
-/* line 111, ../_sass/_base.scss */
+/* line 109, ../_sass/_base.scss */
 .container > footer {
   margin-top: 20px;
   clear: both;
 }
 
-/* line 115, ../_sass/_base.scss */
+/* line 113, ../_sass/_base.scss */
 .container > footer p {
   text-align: center;
   /* center align it with the container */
 }
 
 /* Content */
-/* line 122, ../_sass/_base.scss */
+/* line 120, ../_sass/_base.scss */
 .content {
   /* when there's no page-header */
   /* Wide column content */
 }
-/* line 123, ../_sass/_base.scss */
+/* line 121, ../_sass/_base.scss */
 .content img {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.8);
 }
-/* line 127, ../_sass/_base.scss */
+/* line 125, ../_sass/_base.scss */
 .content.no-header {
   padding-top: 40px;
 }
-/* line 134, ../_sass/_base.scss */
+/* line 132, ../_sass/_base.scss */
 .content div.row div.span8 > img {
   display: block;
   margin: 10px auto;
 }
-/* line 140, ../_sass/_base.scss */
+/* line 138, ../_sass/_base.scss */
 .content div.row div.span4 h4 {
   margin-top: 10px;
 }
-/* line 142, ../_sass/_base.scss */
+/* line 140, ../_sass/_base.scss */
 .content div.row div.span4 h4:first {
   margin-top: 0;
 }
-/* line 146, ../_sass/_base.scss */
+/* line 144, ../_sass/_base.scss */
 .content p {
   padding-bottom: 15px;
   line-height: 25px;
@@ -167,7 +165,7 @@ hr {
 }
 
 /* Page header tweaks */
-/* line 154, ../_sass/_base.scss */
+/* line 152, ../_sass/_base.scss */
 .page-header {
   -moz-box-shadow: rgba(255, 255, 255, 0.1) 0 1px 0, rgba(0, 0, 0, 0.8) 0 1px 7px 0px inset;
   -webkit-box-shadow: rgba(255, 255, 255, 0.1) 0 1px 0, rgba(0, 0, 0, 0.8) 0 1px 7px 0px inset;
@@ -185,19 +183,19 @@ hr {
   -webkit-border-bottom-right-radius: 5px;
   border-bottom-right-radius: 5px;
 }
-/* line 167, ../_sass/_base.scss */
+/* line 165, ../_sass/_base.scss */
 .page-header h1 {
   color: #eee;
   margin-bottom: 0;
 }
 
-/* line 173, ../_sass/_base.scss */
+/* line 171, ../_sass/_base.scss */
 .topbar .btn {
   border: 0;
 }
 
 /* Pagination */
-/* line 180, ../_sass/_base.scss */
+/* line 178, ../_sass/_base.scss */
 div.pagination li a {
   -moz-box-shadow: 0px 1px 1px #000;
   -webkit-box-shadow: 0px 1px 1px #000;
@@ -205,7 +203,7 @@ div.pagination li a {
 }
 
 /* Buttons */
-/* line 188, ../_sass/_base.scss */
+/* line 186, ../_sass/_base.scss */
 a.btn, a.btn.disabled {
   color: rgba(255, 255, 255, 0.7);
   text-shadow: 1px 1px 2px #000;
@@ -215,44 +213,44 @@ a.btn, a.btn.disabled {
   -webkit-box-shadow: rgba(0, 0, 0, 0.8) 0 1px 0, rgba(255, 255, 255, 0.5) 0 1px 1px 0px inset;
   -o-box-shadow: rgba(255, 255, 255, 0.1) 0 1px 0, rgba(0, 0, 0, 0.8) 0 1px 7px 0px inset;
 }
-/* line 199, ../_sass/_base.scss */
+/* line 197, ../_sass/_base.scss */
 a.btn:hover, a.btn.disabled:hover {
   background: rgba(255, 255, 255, 0.05);
 }
-/* line 202, ../_sass/_base.scss */
+/* line 200, ../_sass/_base.scss */
 a.btn.disabled, a.btn.disabled.disabled {
   color: rgba(255, 255, 255, 0.3);
 }
 
 /* Tags */
-/* line 208, ../_sass/_base.scss */
+/* line 206, ../_sass/_base.scss */
 .tag_box {
   list-style: none;
   margin: 0;
   padding: 5px 0;
   overflow: hidden;
 }
-/* line 214, ../_sass/_base.scss */
+/* line 212, ../_sass/_base.scss */
 .tag_box.inline li {
   float: left;
 }
-/* line 218, ../_sass/_base.scss */
+/* line 216, ../_sass/_base.scss */
 .tag_box li {
   line-height: 28px;
 }
-/* line 222, ../_sass/_base.scss */
+/* line 220, ../_sass/_base.scss */
 .tag_box a.active {
   background: #57A957;
   border: 1px solid #4C964D;
   color: #FFF;
 }
-/* line 227, ../_sass/_base.scss */
+/* line 225, ../_sass/_base.scss */
 .tag_box a span {
   vertical-align: super;
   font-size: 0.8em;
 }
 
-/* line 234, ../_sass/_base.scss */
+/* line 232, ../_sass/_base.scss */
 .tag_box.inline a,
 .tag_box a {
   padding: 3px 6px;
@@ -265,56 +263,56 @@ a.btn.disabled, a.btn.disabled.disabled {
   -webkit-box-shadow: rgba(0, 0, 0, 0.8) 0 1px 0, rgba(255, 255, 255, 0.5) 0 1px 1px 0px inset;
   -o-box-shadow: rgba(255, 255, 255, 0.1) 0 1px 0, rgba(0, 0, 0, 0.8) 0 1px 7px 0px inset;
 }
-/* line 247, ../_sass/_base.scss */
+/* line 245, ../_sass/_base.scss */
 .tag_box.inline a:hover,
 .tag_box a:hover {
   background: rgba(255, 255, 255, 0.3);
 }
 
 /* Page-specific */
-/* line 254, ../_sass/_base.scss */
+/* line 252, ../_sass/_base.scss */
 div.content div#page-index {
   padding-top: 30px !important;
 }
 
 /* Zocial Overrides */
-/* line 260, ../_sass/_base.scss */
+/* line 258, ../_sass/_base.scss */
 .navbar a.zocial {
   padding-left: 0 !important;
   padding-right: 0 !important;
 }
 
-/* line 265, ../_sass/_base.scss */
+/* line 263, ../_sass/_base.scss */
 .zocial.googleplus:focus,
 .zocial.googleplus:hover {
   color: #e01d30 !important;
 }
 
-/* line 270, ../_sass/_base.scss */
+/* line 268, ../_sass/_base.scss */
 .zocial.twitter:focus,
 .zocial.twitter:hover {
   color: #46c0fb !important;
 }
 
-/* line 275, ../_sass/_base.scss */
+/* line 273, ../_sass/_base.scss */
 .zocial.linkedin:focus,
 .zocial.linkedin:hover {
   color: #50a1cb !important;
 }
 
-/* line 280, ../_sass/_base.scss */
+/* line 278, ../_sass/_base.scss */
 .zocial.rss:focus,
 .zocial.rss:hover {
   color: #fb9d3a !important;
 }
 
 /* Sticky footer */
-/* line 289, ../_sass/_base.scss */
+/* line 287, ../_sass/_base.scss */
 html, body {
   height: 100%;
 }
 
-/* line 293, ../_sass/_base.scss */
+/* line 291, ../_sass/_base.scss */
 #page-wrap {
   min-height: 100%;
   height: auto !important;
@@ -325,7 +323,7 @@ html, body {
   margin-top: 0;
 }
 
-/* line 305, ../_sass/_base.scss */
+/* line 303, ../_sass/_base.scss */
 .footer-push,
 footer {
   height: 75px;
