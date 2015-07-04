@@ -9,7 +9,7 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : Yet Another Personal Site
-#tagline: Site Tagline
+tagline: Verba volant, script manent
 author :
   name : Timothy Redaelli
   email : tredaelli@archlinux.info
