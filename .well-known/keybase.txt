@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/drizzt
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://yaps.it
+  * I am drizzt (https://keybase.io/drizzt) on keybase.
+  * I have a public key with fingerprint 8CF9 34E3 39CA D8AB F342  E822 E711 306E 3C4F 88BC
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.5.1"
+        },
+        "key": {
+            "fingerprint": "8cf934e339cad8abf342e822e711306e3c4f88bc",
+            "host": "keybase.io",
+            "key_id": "E711306E3C4F88BC",
+            "uid": "8b65997ebbe68f689da6633620ae8700",
+            "username": "drizzt"
+        },
+        "merkle_root": {
+            "ctime": 1412242610,
+            "hash": "3ec4e667d0ec51522cd81b53313da0283eab8338a4137d49e8c06cbc4d8aae16016c5bb88ca3a88e0d8d1e66db5aab44dae08beaf82d9f7311c2a039e4f14f26",
+            "seqno": 70113
+        },
+        "service": {
+            "hostname": "yaps.it",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1412242728,
+    "expire_in": 157680000,
+    "prev": "c9104a3811cc336976f41ee4204024a5a269b11a5bbf6939dc8ca82a8eda1a47",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owFVUltsFVUUvVeohbaaFjHGRKGOaBHL5bxm5kzRfkip9kMQU/AD9eY89rRDy8x1
+ZrhyaW4UNATUNDYoJo2PBBIgaWK0SUUSMXyppSofhEZiYtRETH2RRqwpiHqm1ijn
+6zzWXnuttc/LNyzI1eW/b0LhfRv3fZCfmJK57tW3rxywZKQrVtuApfoDCNNsF4rt
+YLVZfVCRIoFCEDWHkYbCtqR5HtNqlSFOgig0KFSwC9iqtmbwrNgPwh6IS3GQcVlc
++R5lQKmnhOZC+pQR4ISAizFFDlDFfM6lMpS9UZJe09Wa4ywG2tyu/we/nq5jnZw/
+sM687Zh74NKxPc8FKcHhvsM9LRyHUocgAdxFKAMmEM9b0nGwa1eaqd0OcV8/FOMo
+mrOs0iADYIYJYcTByOgRSa8poaAYOI6rESgb24QozbG0KcVUC0Q4BSE5pVwwTF3N
+POAKOUoqZuwKwA7CjrKl5FwJKjgHpLnGhlBLWwjJmBaAuAThc6I936UYKyIQ9YD5
+mPnEMQYSeCqMrDYXmQyq2TEuBwoy2Vlm89YqopQUgmw2pThKIxX1m8veNC21ZXbT
+SikDPQ2yOF9ePCKDUJth/X+a2ECvjcIlvNWCnaUghmKQIWzX4cisrA+UDafyMGKC
+ciNcmeA91/EZBmAEMUSYsAVxPImxMCH4jkc9rUwUnAgOWmDB3P8MYmyEih7DmQQ9
+oUh3xGBV9+dvW5jL1+Wur7ku+6+5usWN/37i6Wrt1SXDC0qr6uvq6w+fsE9cPXD+
+8pquyvOFpStebHl/9PRvrw/f8+qmdOyu7ybGfvpKDQ5duvDgisaphw+Od76zcabm
+zrUbhmYHTk99/OXeM+3LZo51P/pDuX3N5CsjX5z8dNlfi++tvtB9sbnmPbfh87Xj
+n/3864az0xW9ZPLY0eV9b8hnOsI/T94x+PYjNXhz5fJI68G3jn7dc/y5b88furSt
+MrNly95bFt2tz52rbdnc8NHxjpELt954duXks5sOdL02/Ri03Iz+GKzds3DV1o6g
+/WLT0JUOfOWXbw5tnXhi0ZmGybDx8KmbOkXXnnjkyR9fyr9bv++TI8tHdy/9cHj8
+odn7xx7f3fLm76dWJ03lnaP7Z/8G
+=z9Qv
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/drizzt
+
+==================================================================
